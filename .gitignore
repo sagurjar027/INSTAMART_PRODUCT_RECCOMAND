@@ -12,3 +12,5 @@ data/raw/processed/
 *.parquet
 
 
+data/
+*.csv
